@@ -1,3 +1,4 @@
+A robust, scalable end-to-end UI automation testing framework built with **Python**, **Pytest**, and **Selenium WebDriver**, leveraging the **Page Object Model (POM)** design pattern.
 **Page Object Model (POM)**: Complete separation of test logic from UI page locators and actions for high maintainability.
 - **Pytest Fixtures**: Modular setup/teardown management for browser initialization and context configuration.
 - **Data-Driven Testing**: Parametrized test execution using JSON, YAML, or Pytest parameters.
